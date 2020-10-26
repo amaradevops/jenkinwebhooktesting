@@ -1,0 +1,1 @@
+how to fix this issue  jenkins-test on github.com failed to be registered or was removed. More info can be found on the global configuration page. This message will be dismissed if Jenkins receives a PING event from repo webhook or if you add the repo to the ignore list in the global configuration.
